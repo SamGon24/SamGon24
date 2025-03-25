@@ -13,7 +13,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)  
 
-## How to Reach Me 🛠️  
+## How to Reach Me 📞
 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/samugon24/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samgonpin/)  
