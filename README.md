@@ -4,8 +4,7 @@
 - 🎓 CS Major at Texas State | Graduating in 2027  
 - 🏋️‍♂️ Passionate about sports, music, mathematics and technology 
 - 🤖 Looking forward to learn more on the Artifical Intelligence side of Computer Science!
-- 🔍 Currently researching WAR metrics in baseball ahd its implications
-- using AI.
+- 🔍 Currently researching WAR metrics in baseball ahd its implications using AI.
 
 ## Tech Stack 🛠️  
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)  
