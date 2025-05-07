@@ -9,7 +9,7 @@
 ## Tech Stack 🛠️  
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)  
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
-![Java]([https://img.shields.io/badge/-Java-red?style=flat&logo=Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java))
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)  
