@@ -27,6 +27,5 @@ CS student at Texas State · builder · baseball analytics nerd
 
 ## reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samgonpin/)
-[![Portfolio](https://img.shields.io/badge/-samu.build-111?style=flat&logo=vercel&logoColor=white)](https://samu.build)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/samugon24/)
 `Discord: sGlez690`
