@@ -1,5 +1,4 @@
 # Hey, I'm Samuel 
-CS student at Texas State · builder · baseball analytics nerd
 
 ## about
 - 🎓 Computer Science @ Texas State University — graduating Fall 2027
