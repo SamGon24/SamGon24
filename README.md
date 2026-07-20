@@ -1,10 +1,10 @@
 # Hey, I'm Samuel 
 
 ## about
-- 🎓 Computer Science @ Texas State University — graduating Fall 2027
-- 🤖 Building an **AI Study Tool** with React, Flask, GPT-4o, and Qdrant (Team Luna)
-- ⚾ Researching **WAR metrics in baseball** using ML — data + AI at the intersection of the game I love
-- 🔬 Undergraduate researcher with Dr. Qasem's lab; pursuing software engineering + ML roles
+- Computer Science @ Texas State University — graduating Fall 2027
+- Built an **AI Study Tool** with React, Flask, GPT-4o, and Qdrant
+- Researching **WAR metrics in baseball** using ML — data + AI at the intersection of the game I love
+- Currently working as a full stack architect under Dr. Qasem's initiative NUEVA.
 
 ## tech stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,7 +18,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-## current projects
+## projects
 - 🧠 **AI Study Tool** — quiz generation, document ingestion, Qdrant vector search
 - 📊 **GitLogs** — Python + Streamlit + Claude API; visualizes commit behavior patterns
 - ⚾ **Baseball WAR Analytics** — ML-driven WAR analysis, data portfolio piece in progress
