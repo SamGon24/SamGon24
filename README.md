@@ -19,10 +19,10 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## projects
-- 🧠 **AI Study Tool** — quiz generation, document ingestion, Qdrant vector search
-- 📊 **GitLogs** — Python + Streamlit + Claude API; visualizes commit behavior patterns
-- ⚾ **Baseball WAR Analytics** — ML-driven WAR analysis, data portfolio piece in progress
-- 🎵 **Spotify Visualizer** — Flask + Spotipy + React/Vite; OAuth integration and Recharts bar chart for listening stats
+- 🧠 **AI Study Tool**: quiz generation, document ingestion, Qdrant vector search
+- 📊 **GitLogs**: Python + Streamlit + Claude API; visualizes commit behavior patterns
+- ⚾ **Baseball WAR Analytics**: ML-driven WAR analysis, data portfolio piece in progress
+- 🎵 **Spotify Visualizer**: Flask + Spotipy + React/Vite; OAuth integration and Recharts bar chart for listening stats
 
 ## reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samgonpin/)
