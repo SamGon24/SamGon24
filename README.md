@@ -1,9 +1,9 @@
 # Hey, I'm Samuel 
 
 ## about
-- Computer Science @ Texas State University — graduating Fall 2027
+- Computer Science @ Texas State University, graduating Fall 2027
 - Built an **AI Study Tool** with React, Flask, GPT-4o, and Qdrant
-- Researching **WAR metrics in baseball** using ML — data + AI at the intersection of the game I love
+- Researching **WAR metrics in baseball** using ML, data + AI at the intersection of the game I love
 - Currently working as a full stack architect under Dr. Qasem's initiative NUEVA.
 
 ## tech stack
