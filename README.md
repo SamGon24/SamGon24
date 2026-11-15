@@ -55,10 +55,6 @@ Predicts MLB player WAR with a Random Forest model trained on engineered player 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-## Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamGon24&layout=compact&langs_count=8&hide_border=true&theme=transparent)
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/-samugon.com-0B1D3A?style=flat&logo=googlechrome&logoColor=white)](https://samugon.com)
